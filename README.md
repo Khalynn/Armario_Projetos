@@ -1,9 +1,9 @@
 # Armario_Projetos
 Projetos em geral (ou qualquer coisa sobre tecnologia) da galera.
-# Versão 0.0.0.0.0.0.3
+# Versão 0.0.0.0.0.0.4
+Foi removido a seção update
 
 
-# UPDATE 
-foi adicionado level aos colaboradores
+
 
 
